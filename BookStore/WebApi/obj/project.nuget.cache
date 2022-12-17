@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "z7a0QQFWnZGpTeKFL6x9rrl8AX1kSgSq0b3FPpQduWojJR1KAFNYqnXeeD5RC0TMy5P/aOtZ13kYVaia81pLgg==",
+  "dgSpecHash": "I+7x9Xych/eaYbSiQ6vht/+LGSiRxo1AyV20jzLKbInq7ENmSth55SbCFy/7m2ud3j335iQwsFA0PlQMAKGUXg==",
   "success": true,
   "projectFilePath": "/Users/emre/Desktop/X/BookStore/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
+    "/Users/emre/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/emre/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "/Users/emre/.nuget/packages/fluentvalidation/11.4.0/fluentvalidation.11.4.0.nupkg.sha512",
+    "/Users/emre/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/emre/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/emre/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
     "/Users/emre/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0/microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",
