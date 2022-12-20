@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "I+7x9Xych/eaYbSiQ6vht/+LGSiRxo1AyV20jzLKbInq7ENmSth55SbCFy/7m2ud3j335iQwsFA0PlQMAKGUXg==",
+  "dgSpecHash": "HpPgZL5CnNjwpC/I4D3CKnxud9/x+IZRyyde1MrYeZtKjGxo/aDY1ovIY1Euruq1a0WQxwtA7Ezr4vIh++ZbfA==",
   "success": true,
   "projectFilePath": "/Users/emre/Desktop/X/BookStore/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "/Users/emre/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/emre/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/emre/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/emre/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
     "/Users/emre/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/emre/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/Users/emre/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
